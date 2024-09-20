@@ -11,4 +11,3 @@ function reverseString (s){
 }
 reverseString("hello");
 reverseString(1234);
-
